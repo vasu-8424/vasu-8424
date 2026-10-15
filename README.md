@@ -36,7 +36,7 @@ name:        Veera Vasu Nakka
 role:        Full-Stack & Mobile Developer
 education:   B.Tech ECE · SRKR Engineering College · 2026
 cgpa:        8.1
-now:         Full-Stack Intern @ Staffarc (Remote)
+latest:      Full-Stack Intern @ Staffarc (Mar–Aug 2026, completed)
 before:      React Native Intern @ Yahweh Software Solutions
 superpower:  Shipping real products + AI-assisted workflows
 looking_for: Full-Stack · Frontend · React Native
@@ -46,7 +46,7 @@ looking_for: Full-Stack · Frontend · React Native
 <td width="40%" valign="top">
 
 🎓 **B.Tech ECE Graduate** — CGPA 8.1<br/><br/>
-💼 **Full-Stack Intern** @ Staffarc — MERN · SQL<br/><br/>
+💼 **Full-Stack Intern** @ Staffarc — MERN · SQL *(Mar–Aug 2026 ✅)*<br/><br/>
 📱 **Ex-React Native Intern** @ Yahweh<br/><br/>
 ⚡ Building real products for real problems<br/><br/>
 🤖 Fluent with AI tools in dev workflows<br/><br/>
@@ -192,16 +192,16 @@ looking_for: Full-Stack · Frontend · React Native
 ## 💼 &nbsp;Experience Timeline
 
 ```text
- 2025                                    2026
-  │                                       │
-  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━▶ Present
-  📱 React Native Intern                  💼 Full-Stack Intern
-     Yahweh Software Solutions               Staffarc (Remote)
+ 2025                          Mar 2026                 Aug 2026
+  │                               │                        │
+  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━●━━━▶ Next: your team? 🚀
+  📱 React Native Intern          💼 Full-Stack Intern ✅
+     Yahweh Software Solutions       Staffarc (Remote)
 ```
 
 | | Role | Highlights |
 |:---:|:---|:---|
-| 💼 | **Full-Stack Development Intern** — Staffarc<br/>*March 2026 – Present · Remote* | Building full-stack web apps with the **MERN stack** and **SQL** in an agile, remote-first environment |
+| 💼 | **Full-Stack Development Intern** — Staffarc<br/>*March 2026 – August 2026 · Remote · Completed ✅* | Built full-stack web apps with the **MERN stack** and **SQL** in an agile, remote-first environment |
 | 📱 | **React Native Developer Intern** — Yahweh Software Solutions<br/>*2025* | Built & optimised cross-platform mobile apps · integrated RESTful APIs · delivered user-friendly UI components |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
